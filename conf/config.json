@@ -1,0 +1,6 @@
+{
+	"zmq_url" : "tcp://127.0.0.1:9999",
+	"model_dir" : "/d/ymq/models/funasr/SenseVoiceSmall",
+	"model_dir" : "turbo",
+	"device" : "cuda:0"
+}
